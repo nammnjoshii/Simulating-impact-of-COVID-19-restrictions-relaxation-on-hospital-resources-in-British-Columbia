@@ -57,21 +57,21 @@ Total British Columbia Population : 4,912,400
 
 British Columbia (B.C.) has 65.3% of its population with age group 15 - 64 years. The Average age of the B.C. population is 42.3 years and the Median age of the B.C. population is 43 years. 
 
-<img src="2.png">
+![](Images/2.png)
 
 
 ### Critical Population: 
 
 People of all ages are infected by the coronavirus but the old population and people with pre-condition are most at risk from the disease. These severely susceptible people can get extremely ill and will require intensive care for their treatment. Below table shows the total number of critical population in BC
 
-<img src="3.png">
+![](Images/3.png)
 
 
 ### Age-wise Death Percentage: 
 
 Based on the data collected worldwide, the percentage of people who died at a particular age. 
 
-<img src="4.png">
+![](Images/4.png)
 
  
 
@@ -79,7 +79,7 @@ Based on the data collected worldwide, the percentage of people who died at a pa
 
 Probability of Death increases exponentially with an increase in Age and the Number of Pre-Conditions. 
 
-<img src="5.png">
+![](Images/5.png)
 
 
 
@@ -88,20 +88,17 @@ Probability of Death increases exponentially with an increase in Age and the Num
 
 The critical population of British Columbia who is defined as the age-sensitive population most likely to get critically ill. For a COVID-19 patient to be a critical cases we consider their age and  pre-conditions. Presented in a swarm plot below, the blue dots represent the population sample who if infected by COVID-19 would not require intensive care whereas the orange dots represent the population who would highly likely require intensive care. The people in orange are our critical groups, one who desperately need to receive treatment and prioritized if the were tested positive of COVID-19. 
 
-<img src="6.png">
-
+![](Images/6.png)
 
 We now need to extend this analysis to the entire population of British Columbia i.e. 4.5 million people to get a close approximation of how many people would fall in the critical category if everyone was infected by COVID-19.
  
-<img src="7.png">
-
+![](Images/7.png)
 
 ### Simulating Infection rate Scenarios vs Available Hospital Resources: 
 
 The reproduction factor (R0) for the COVID-19 is estimated by the scientists to be in the range of 2.2 - 2.7. Depending on the level of intervention strategies implemented, the rate of infection can be controlled and the health care facilities need to adjust to the number of critical cases produced. 
 
-<img src="8.png">
-
+![](Images/8.png)
  
  
 We now simulate the patient’s criticality for the below 3 scenarios for the next 45 days and map it with the available hospital resources to measure the impact of the critical care patients on the hospital infrastructure. 
@@ -125,14 +122,12 @@ a)  Scenario 1 = 1,085 positive cases
 b)	Scenario 2 = 2,863 positive cases
 c)	Scenario 3 = 7,328 positive cases
 
-<img src="11.png">
-
+![](Images/11.png)
 - Scenario 3 will exponentially strain the hospital resources with next 40 days, post which there will be a short of hospital infrastructure. 
 a) Scenario 1 is a workable option and does not pose any impact on available hospital resources. 
 b) Scenario 2 is the most idle and will help to curb the covid-19 infection at a higher. 
 
-<img src="9.png">
-
+![](Images/9.png)
 ## Recommendation: 
 
 The death rate of coronavirus is around 1% but due to the shortage of intensive care facilities, the death rate has risen to 10-12% in countries like Spain and Italy. This could have been avoided if the health facilities were well equipped in advance. This project aims to reduce the uncertainty rate by forecasting the requirements for BC health care under different scenarios so that they can equip themselves and reduce the congestion at hospital for their resources. 
@@ -142,8 +137,7 @@ Keeping the above analysis in mind, it is not advisable to completely relax the 
 
 ## Appendix:  
 
-<img src="10.png">
-
+![](Images/10.png)
 
 ### Sources and References 
 
