@@ -49,8 +49,7 @@ To predict the population that would require critical care support in British Co
 As of April 11th, there were 1,445 confirmed positive COVID-19 cases in British Columbia of which 963 closed cases (Recovery = 905 and Deaths = 58). At present, British Columbia has 348 ventilator capable critical care beds available for COVID-19 patients. 
 
 
-<img src="1.png">
-
+![](Images/1.png)
 
 ### Understanding  the demographics of British Columbia
 
