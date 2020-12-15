@@ -1,12 +1,8 @@
 
 # Simulating Impact of COVID-19 restrictions relaxation on hospital resources in British Columbia
 
-Research By:
+Research By: Nammn Joshii
 
-* Adnan Beg
-* Nammn Joshii
-* Teguh Samudra
-* Pratibha Thakur
 
 ## Introduction : 
 
